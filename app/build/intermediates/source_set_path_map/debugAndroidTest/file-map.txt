@@ -1,0 +1,6 @@
+org.eu.noobshubham.ToDoTroop.test.app-annotation-experimental-1.3.0-0 C:\Users\shubham\.gradle\caches\transforms-3\8ef30cd8458785a6f5c6520a3378e97c\transformed\annotation-experimental-1.3.0\res
+org.eu.noobshubham.ToDoTroop.test.app-core-1.5.0-1 C:\Users\shubham\.gradle\caches\transforms-3\ee985323bd50bae98bdc77920fdb7205\transformed\core-1.5.0\res
+org.eu.noobshubham.ToDoTroop.test.app-androidTest-2 C:\Users\shubham\Desktop\ToDoTroop\app\build\generated\res\resValues\androidTest\debug
+org.eu.noobshubham.ToDoTroop.test.app-mergeDebugAndroidTestResources-3 C:\Users\shubham\Desktop\ToDoTroop\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.eu.noobshubham.ToDoTroop.test.app-mergeDebugAndroidTestResources-4 C:\Users\shubham\Desktop\ToDoTroop\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.eu.noobshubham.ToDoTroop.test.app-merged_res-5 C:\Users\shubham\Desktop\ToDoTroop\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_baseline_delete_24.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_baseline_star_border_24.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/baseline_star_border_24.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_cloudy.png.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/cloudy.png"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/layout_add_todo.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/layout/add_todo.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_baseline_add_24.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_baseline_home_24.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_btn_background.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/btn_background.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_baseline_edit_24.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/layout_content_scrolling.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/layout_list_item.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/layout/list_item.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/layout_activity_favourite.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_symbol_scatter_haikei.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/symbol_scatter_haikei.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/drawable_item_background.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/drawable/item_background.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "org.eu.noobshubham.ToDoTroop.app-merged_res-31:/menu_bottom_nav_menu.xml.flat",
+        "source": "org.eu.noobshubham.ToDoTroop.app-main-33:/menu/bottom_nav_menu.xml"
+    }
+]

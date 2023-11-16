@@ -1,0 +1,3 @@
+org.eu.noobshubham.ToDoTroop.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
